@@ -31,3 +31,17 @@ To contribute it's easy!
 ### Come Chat
 
 Come join us over on [our Slack team page](https://reuser.slack.com).
+
+### Technologies
+
+- Node
+- React
+- Redux
+- Material UI
+- Babel
+- Enzyme
+- Sass
+- Tape + Tap-Spec
+- Webpack
+
+More to come...
