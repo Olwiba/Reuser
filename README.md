@@ -1,4 +1,4 @@
-![Reuser](Reuser/resources/images/Reuser.png "Reuser")
+![Reuser](https://github.com/Olwiba/Reuser/blob/master/resources/images/Reuser.png?raw=true "Reuser")
 
 ## What is Reuser?
 
