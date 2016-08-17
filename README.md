@@ -1,4 +1,4 @@
-![Reuser](https://github.com/Olwiba/Reuser/blob/master/public/resources/images/logo.svg?raw=true "Reuser")
+![Reuser](https://raw.githubusercontent.com/Olwiba/Reuser/master/public/resources/images/logo.svg "Reuser")
 
 //Who
 
